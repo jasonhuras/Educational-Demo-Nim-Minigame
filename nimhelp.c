@@ -1,3 +1,11 @@
+/* This project contains files from multiple sources, not all files are created by Jason Huras, some files were provided by the professor since the project was for educational
+ * purposes. These files were produced by Professor Stefan Kremer at the University of Guelph CIS department
+ * "alphanim.c"		Produced by Stefan Kremer
+ * "makefile"		Produced by Jason Huras
+ * "nim.c" 		Produced by Jason Huras
+ * "nim.h"		Produced by Jason Huras
+ * "nimhelp.c"		Produced by Stefan Kremer
+*/
 #include "nim.h"
 
 #include <stdio.h>
