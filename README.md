@@ -7,3 +7,4 @@ Usage:
 1) Download source files and compile using the make command
 2) Run the executable with command line parameters as follows. The first arguement is either '0' or '1', 0 indicating that the computer goes first and 1 indicating the player goes first. The following arguments indicate the amount of matches in each row, with each seperated by a space
 3) Example run command "./a 0 5 3 2 1" would create a board with 4 rows, matches 5,3,2,1 respectivly with the computer making the first move.
+4) To make a move enter the row number making sure the press ENTER, then entering the number of matches you wish to remove
