@@ -1,1 +1,1 @@
-# Educational-Demo-Nim-Minigame
+# Educational-Exercise-Nim-Minigame
