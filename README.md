@@ -7,7 +7,7 @@ You cannot win. My AI opponent will always beat you! try it yourself.
 
 ## Prerequisites
 
-Clang C compiler.
+**Clang** C compiler.
 
 If you chose to use another C compiler, you must link all 3 C source files
 
