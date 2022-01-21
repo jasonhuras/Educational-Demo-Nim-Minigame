@@ -7,7 +7,9 @@ You cannot win. My AI opponent will always beat you! try it yourself.
 
 ## Prerequisites
 
-MinGW gcc compiler, or any other C program compiler
+Clang C compiler.
+
+If you chose to use another C compiler, you must link all 3 C source files
 
 ## Usage 
 1) Download source files and compile using the `make` command
