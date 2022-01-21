@@ -12,7 +12,7 @@ You cannot win. My AI opponent will always beat you! try it yourself.
 If you chose to use another C compiler, you must link all 3 C source files
 
 ## Usage 
-1) Download source files and compile using the `make` command
+1) Download source files and compile using the makefile and the `make` command
 2) Run the executable with command line parameters as follows. The first arguement is either '0' or '1', 0 indicating that the computer goes first and 1 indicating the player goes first. The following arguments indicate the amount of matches in each row, with each seperated by a space
 3) Example run command `./a 0 5 3 2 1` would create a board that looks like : 
 ```
